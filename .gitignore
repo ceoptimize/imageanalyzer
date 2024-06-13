@@ -1,2 +1,7 @@
 venv/
-
+images/
+output/
+text_results/
+csv_results/
+xlsx_results/
+playground/
